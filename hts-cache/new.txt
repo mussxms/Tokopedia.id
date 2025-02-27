@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:22:40	520/520	---M-Z	404	error ('Not%20Found')	text/html	date:Mon,%2008%20Apr%202024%2018:30:09%20GMT	https://okemedia.web.app/robots.txt		(from )
+11:22:40	5922/5922	---M-Z	200	added ('OK')	text/html	date:Mon,%2008%20Apr%202024%2018:30:09%20GMT	https://okemedia.web.app/haxor/scdeface-3/	C:/My%20Web%20Sites/hck1/okemedia.web.app/haxor/scdeface-3/index.html	(from )
+11:22:41	9296/9296	---M--	200	added ('OK')	image/png	etag:W/%222450-v9SseB0itripBhBtJsHik80yAx0%22	https://cdn.jsdelivr.net/gh/samuelpasaribu/okemedia/logo.png	C:/My%20Web%20Sites/hck1/cdn.jsdelivr.net/gh/samuelpasaribu/okemedia/logo.png	(from https://okemedia.web.app/haxor/scdeface-3/)
+11:22:41	175183/175183	---M-Z	200	added ('OK')	image/png	date:Wed,%2026%20Oct%202022%2019:00:07%20GMT	https://defacehtml.web.app/script/img/bjorka.png	C:/My%20Web%20Sites/hck1/defacehtml.web.app/script/img/bjorka.png	(from https://okemedia.web.app/haxor/scdeface-3/)
